@@ -1,0 +1,13 @@
+package gerePet;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GerePetApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GerePetApplication.class, args);
+	}
+
+}
